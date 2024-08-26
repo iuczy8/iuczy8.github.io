@@ -4,20 +4,23 @@
         "name": "优创资源网",
         "description": "iOS/安卓/电脑软件游戏",
         "url": "https://app.ucgod.cn/",
-        "category": "测试"
+        "category": "测试",
+        "shouldOpenInApp": ture
     },
     {
         "icon": "https://s2.loli.net/2024/08/25/TnqeMf8CYdJ6rKx.png",
         "name": "在线签名站",
         "description": "iOSIPA文件在线签名",
         "url": "https://sign.uqios.com/",
-        "category": "测试"
+        "category": "测试",
+        "shouldOpenInApp": ture
     },
     {
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/2a/59/a42a59c2-0b80-588d-7273-d3cf85525b21/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.png",
         "name": "流量卡",
         "description": "正规免费大流量首月免费",
         "url": "https://simhaoka.com/phone/index?id=EE0A9868BE46F28CD800FDF1BD16E019",
-        "category": "测试"
+        "category": "测试",
+        "shouldOpenInApp": ture
     }
 ]
