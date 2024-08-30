@@ -1,5 +1,53 @@
 [
     {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/dd/ff/42ddffa3-3df6-f700-0157-3611a8d80c5f/Icon-0-0-1x_U007emarketing-0-0-0-6-0-0-85-220.png/180x180bb.png",
+        "name": "Yandex",
+        "description": "俄罗斯搜索引擎",
+        "url": "https://app.ucgod.cn/"
+    },
+    {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e0/ab/0e/e0ab0e8d-add3-f7f2-6f88-da6cd28348fd/AppIcon-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+        "name": "Poki 宝玩",
+        "description": "单人/双人免费在线游戏",
+        "url": "https://poki.com/zh"
+    },
+    {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/92/28/52/92285261-2830-4c7c-3afb-61666a63fda5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/180x180bb.png",
+        "name": "游戏扫码登录",
+        "description": "快速登录游戏",
+        "url": "http://sm.ucgod.cn/"
+    },
+    //动漫系列
+    {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/35/98/af35985f-3086-dddb-dcea-8ed27de682aa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
+        "name": "路漫漫",
+        "description": "全网动漫免费看",
+        "url": "https://dm.g916.com/"
+    },
+    {
+        "icon": "https://cdn.aiqingyu1314.com/age/statics/images/logo.png?v=2024042101",
+        "name": "AGE动漫",
+        "description": "全网动漫免费看",
+        "url": "https://www.agedm.org/"
+    },
+//音乐
+    {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/18/bd/8e18bd19-1453-d9be-620d-66930b61e487/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
+        "name": "MyFree音乐",
+        "description": "网友自建音乐在线/下载站",
+        "url": "http://tool.liumingye.cn/music/?page=searchPage#/"
+    },
+    //图书本地阅读
+     {
+        "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/9a/eb/809aeb0c-dc7a-1767-82ce-1d324dfad0ae/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/180x180bb.png",
+        "name": "EPUB阅读",
+        "description": "EPUB电子书在线阅读",
+        "url": "https://epub.liumingye.cn/"
+    },   
+    
+    
+
+    {
         "icon": "https://s2.loli.net/2024/08/25/TnqeMf8CYdJ6rKx.png",
         "name": "优创资源网",
         "description": "iOS/安卓/电脑软件游戏",
