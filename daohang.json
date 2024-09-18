@@ -17,7 +17,6 @@
         "description": "快速登录游戏",
         "url": "http://sm.ucgod.cn/"
     },
-    //动漫系列
     {
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/35/98/af35985f-3086-dddb-dcea-8ed27de682aa/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/180x180bb.png",
         "name": "路漫漫",
@@ -30,14 +29,12 @@
         "description": "全网动漫免费看",
         "url": "https://www.agedm.org/"
     },
-//音乐
     {
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8e/18/bd/8e18bd19-1453-d9be-620d-66930b61e487/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/180x180bb.png",
         "name": "MyFree音乐",
         "description": "网友自建音乐在线/下载站",
         "url": "http://tool.liumingye.cn/music/?page=searchPage#/"
     },
-    //图书本地阅读
      {
         "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/9a/eb/809aeb0c-dc7a-1767-82ce-1d324dfad0ae/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/180x180bb.png",
         "name": "EPUB阅读",
