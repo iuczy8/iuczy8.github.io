@@ -1,0 +1,36 @@
+.icon-appleugg:before {
+    content: "";
+    width: 28px;
+    height: 28px;
+    background-image: url(https://s21.ax1x.com/2025/03/26/pEDaPtP.png);
+    background-size: contain;
+    margin: 5px;
+    display: block;
+}
+.icon-azugg:before {
+    content: "";
+    width: 28px;
+    height: 28px;
+    background-image: url(https://s21.ax1x.com/2025/03/26/pEDakp8.png);
+    background-size: contain;
+    margin: 5px;
+    display: block;
+}
+.icon-zyugg:before {
+    content: "";
+    width: 28px;
+    height: 28px;
+    background-image: url(https://s21.ax1x.com/2025/03/26/pEDaA1S.png);
+    background-size: contain;
+    margin: 5px;
+    display: block;
+}
+.icon-gameugg:before {
+    content: "";
+    width: 28px;
+    height: 28px;
+    background-image: url(https://s21.ax1x.com/2025/03/26/pEDaiff.png);
+    background-size: contain;
+    margin: 5px;
+    display: block;
+}
