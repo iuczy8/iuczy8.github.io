@@ -1,0 +1,85 @@
+{
+  "name": "UAppStore",
+  "subtitle": "TrollStore and NoJB apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://gt.uczyw.com/https://raw.githubusercontent.com/iuczy8/picx-images-hosting/master/img_20250820144424_68a56ec8823f8.webp",
+  "website": "https://app.ucgod.cn",
+  "patreonURL": "https://app.ucgod.cn",
+  "tintColor": "#5685e2",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/nhHq9ly.png",
+  "apps": [
+    {
+      "name": "Quantumult X",
+      "bundleIdentifier": "com.crossutility.quantumult-x",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "tintColor": "#3b5dc3",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Quantumult X Needs Scan the QR Code to Get the Proxy Server Info"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "VidHub",
+      "bundleIdentifier": "com.mac.utility.media.hub",
+      "marketplaceID": "",
+      "developerName": "Uge",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "By-app.ucgod.cn",
+      "tintColor": "#11d476",
+      "category": "utilities",
+      "screenshots": {
+        "iphone": [
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/93/1a/5f931af9-e4f6-d359-1ff5-791658c5d5c2/e897d779-82bf-42a2-b5d2-dfb3adec64ad_1cn.png/497x883bb.jpg"
+        ],
+        "ipad": [
+          "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/93/1a/5f931af9-e4f6-d359-1ff5-791658c5d5c2/e897d779-82bf-42a2-b5d2-dfb3adec64ad_1cn.png/497x883bb.jpg"
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://pan.xunlei.com/s/VOY5EqeDzcXgdt9SPIA-6gTJA1?pwd=bpma#",
+          "size": 86600000,
+          "version": "2.0.5",
+          "buildVersion": null,
+          "date": "2025-08-20T06:51:00+08:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSFaceIDUsageDescription": "VidHub use Face ID to unlock app.",
+          "NSHumanReadableCopyright": "Copyright © 2025 Nanjing Oumi Software Development Co., Ltd.. All rights reserved.",
+          "NSLocalNetworkUsageDescription": "Discovery local SMB Bonjour services",
+          "NSPhotoLibraryUsageDescription": "This app requires access to the photo library."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "New Feature Announcement",
+      "identifier": "news_uyd8spujx4",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2025-08-20T14:48",
+      "tintColor": "#5685e2",
+      "imageURL": "https://i.imgur.com/LVwFwlF.png",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    }
+  ]
+}
