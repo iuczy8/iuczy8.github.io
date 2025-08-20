@@ -10,26 +10,6 @@
   "headerURL": "https://i.imgur.com/nhHq9ly.png",
   "apps": [
     {
-      "name": "Quantumult X",
-      "bundleIdentifier": "com.crossutility.quantumult-x",
-      "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://gt.uczyw.com/https://raw.githubusercontent.com/iuczy8/picx-images-hosting/master/img_20250820144424_68a56ec8823f8.webp",
-      "tintColor": "#3b5dc3",
-      "category": "other",
-      "screenshots": [],
-      "versions": [],
-      "appPermissions": {
-        "entitlements": [],
-        "privacy": {
-          "NSCameraUsageDescription": "Quantumult X Needs Scan the QR Code to Get the Proxy Server Info"
-        }
-      },
-      "patreon": {}
-    },
-    {
       "name": "VidHub",
       "bundleIdentifier": "com.mac.utility.media.hub",
       "marketplaceID": "",
